@@ -1,5 +1,5 @@
 # chat-app
-Chat App uses WebSockets to take messages and display them back to the client.
+Chat App uses WebSockets to take messages and display them back to multiple clients.
 
 ## Start
 To start the app, open two terminals.
