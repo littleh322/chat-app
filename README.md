@@ -26,7 +26,7 @@ Happy Testing :-)
 
 #### John receives the chat, responds, and invites Joe:
 
-![John_chat.png](./assets/images/John_chat.png | width=250)
+![John_chat.png](./assets/images/John_chat.png =250x250)
 
 #### Joe joins late:
 
