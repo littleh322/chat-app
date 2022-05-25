@@ -1,1 +1,3 @@
 .DS_Store
+/webSocketsClient/node_modules
+/webSocketsServer/node_modules
