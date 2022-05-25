@@ -18,17 +18,17 @@ If the client is running successfully, you will see `http://localhost:1992` open
 
 Happy Testing :-)
 
-### Screenshots:
+## Screenshots:
 
-##### Dave starts the chat w/ John:
+#### Dave starts the chat w/ John:
 
 ![Dave_chat.png](./assets/images/Dave_chat.png)
 
-##### John receives the chat, responds, and invites Joe:
+#### John receives the chat, responds, and invites Joe:
 
 ![John_chat.png](./assets/images/John_chat.png)
 
-##### Joe joins late:
+#### Joe joins late:
 
 ![Joe_chat.png](./assets/images/Joe_chat.png)
 
