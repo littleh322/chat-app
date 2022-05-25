@@ -22,13 +22,13 @@ Happy Testing :-)
 
 #### Dave starts the chat w/ John:
 
-<img alt="Dave_chat.png" src="./assets/images/Dave_chat.png" width=75% height=75%>
+<img alt="Dave_chat.png" src="./assets/images/Dave_chat.png" width=60% height=60%>
 
 #### John receives the chat, responds, and invites Joe:
 
-<img alt="John_chat.png" src="./assets/images/John_chat.png" width=75% height=75%>
+<img alt="John_chat.png" src="./assets/images/John_chat.png" width=60% height=60%>
 
 #### Joe joins late:
 
-<img alt="Joe_chat.png" src="./assets/images/Joe_chat.png" width=75% height=75%>
+<img alt="Joe_chat.png" src="./assets/images/Joe_chat.png" width=60% height=60%>
 
