@@ -17,3 +17,18 @@ Finally run `npm start` which will start the client.
 If the client is running successfully, you will see `http://localhost:1992` open in the browser.
 
 Happy Testing :-)
+
+### Screenshots:
+
+##### Dave starts the chat w/ John:
+
+![Dave_chat.png](./assets/images/Dave_chat.png)
+
+##### John receives the chat, responds, and invites Joe:
+
+![John_chat.png](./assets/images/John_chat.png)
+
+##### Joe joins late:
+
+![Joe_chat.png](./assets/images/Joe_chat.png)
+
