@@ -22,13 +22,13 @@ Happy Testing :-)
 
 #### Dave starts the chat w/ John:
 
-![Dave_chat.png](./assets/images/Dave_chat.png)
+![Dave_chat.png](./assets/images/Dave_chat.png | width=250)
 
 #### John receives the chat, responds, and invites Joe:
 
-![John_chat.png](./assets/images/John_chat.png)
+![John_chat.png](./assets/images/John_chat.png | width=250)
 
 #### Joe joins late:
 
-![Joe_chat.png](./assets/images/Joe_chat.png)
+![Joe_chat.png](./assets/images/Joe_chat.png | width=250)
 
