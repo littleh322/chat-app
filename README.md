@@ -22,18 +22,13 @@ Happy Testing :-)
 
 #### Dave starts the chat w/ John:
 
-![Dave_chat.png](./assets/images/Dave_chat.png | width=250)
-
-<img src="./assets/images/Dave_chat.png" width=50% height=50%>
-<img src="./assets/images/Dave_chat.png" width="250" height="250">
-
-<img src="https://github.com/littleh322/chat-app/tree/main/assets/images/Dave_chat.png" width=50% height=50%>
+<img alt="Dave_chat.png" src="./assets/images/Dave_chat.png" width=75% height=75%>
 
 #### John receives the chat, responds, and invites Joe:
 
-![John_chat.png](./assets/images/John_chat.png =250x250)
+<img alt="John_chat.png" src="./assets/images/John_chat.png" width=75% height=75%>
 
 #### Joe joins late:
 
-![Joe_chat.png](./assets/images/Joe_chat.png | width=250)
+<img alt="Joe_chat.png" src="./assets/images/Joe_chat.png" width=75% height=75%>
 
